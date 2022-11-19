@@ -27,7 +27,7 @@
             "system": "pf2e"
         }
     ],
-    "manifest": "https://github.com/QwertTheWert",
-    "download": "https://github.com/QwertTheWert"
+    "manifest": "https://github.com/QwertTheWert/qwert-kingmaker/main/module.json",
+    "download": "https://github.com/QwertTheWert/qwert-kingmaker/archive/refs/heads/main.zip"
 
   }
