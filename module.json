@@ -1,0 +1,33 @@
+{
+    "name": "qwert-kingmaker",
+    "title": "Qwert's kingmaker",
+    "description": "Kingmaker 2e Adventure Documents",
+    "version": "1.0.0",
+    "authors": [
+        {
+          "name": "QwertTheWert"
+        }
+    ],
+    "compatibility": {
+        "minimum": 10
+    },
+    "packs": [
+        {
+            "name": "kingmaker-ap",
+            "label": "Kingmaker AP",
+            "path": "./packs/kingmaker-ap.db",
+            "type": "Adventure",
+            "system": "pf2e"
+        },
+        {
+            "name": "kingmaker-companion-quests",
+            "label": "Kingmaker Companion Quests",
+            "path": "./packs/kingmaker-companion-quests.db",
+            "type": "Adventure",
+            "system": "pf2e"
+        }
+    ],
+    "manifest": "https://github.com/QwertTheWert",
+    "download": "https://github.com/QwertTheWert"
+
+  }
