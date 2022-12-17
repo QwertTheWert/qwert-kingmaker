@@ -4,7 +4,7 @@ Kingmaker
 ## Progress:
 Chapter 1: DONE
 
-Chapter 2: Area 0-3 DONE
+Chapter 2: Area 0-3 DONE, AREA 4-7 PARTIALLY
 
 Chapter 3: DONE
 
