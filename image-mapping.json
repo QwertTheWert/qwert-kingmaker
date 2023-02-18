@@ -1,0 +1,243 @@
+{
+	"kingmaker-bestiary": {
+		"7bWjM5e9sKxaYbOw": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/thorn-river-bandit.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/thorn-river-bandit.webp"
+		},
+		"Ea0Edd9XNA17yj9n": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/stag-lord-bandit.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/stag-lord-bandit.webp",
+				"scale": 1.5
+			}
+		},
+		"TLoNfIIhS7YGdV54": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/thylacine.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/thylacine.webp"
+		},
+		"Wyqsf3qDt7PqQ8OM": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/thylacine.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/thylacine.webp"
+		},
+		"RfIipAkVucpR0f0x": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/oleg-leveton.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/oleg-leveton.webp"
+		},
+		"WmSZELnHCZ9g9Nq2": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/svetlana-leveton.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/svetlana-leveton.webp"
+		},
+		"1UWbR2WkeP0kl1nQ": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/giant-trapdoor-spider.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/giant-trapdoor-spider.webp"
+		},
+		"V7FoP8iIcehuiF20": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/bestial/unique/cursed-guardian.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/unique/cursed-guardian.webp"
+		},
+		"fs1iFoZmJF1iUWwX": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/undead/unique/davik-nettles.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/undead/unique/davik-nettles.webp"
+		},
+		"1upVC05DY7YzxNsr": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/chew-spiders.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/chew-spiders.webp"
+		},
+		"48o307dry03xazvd": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/corax.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/corax.webp",
+				"scale": 1.5
+			}
+		},
+		"UAlHSl6Cpujld1dx": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/logger.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/logger.webp"
+		},
+		"RTd4FwqGq8gBjdAO": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/fey/unique/melianse.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/fey/unique/melianse.webp"
+		},
+		"k9eR5UwCSrfpPPAv": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/the-hateful-hermit.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/the-hateful-hermit.webp"
+		},
+		"sMCEMlNngFINMX8y": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/elga-verniex.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/elga-verniex.webp"
+		},
+		"3Tb42wMuwjtP3iYN": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/snapping-turtle.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/snapping-turtle.webp"
+		},
+		"dZEl1W8zV3rj5D9O": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/undead/unique/the-lonely-warrior.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/undead/unique/the-lonely-warrior.webp"
+		},
+		"8IYynuqZxDpXZwBE": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/tartuccio.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/tartuccio.webp",
+				"scale": 1.2
+			}
+		},
+		"RL6cxasbeQMtCDvV": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/chief-sootscale.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/chief-sootscale.webp"
+		},
+		"lRxISnNmcfUm7AfG": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/unique/grabbles.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/unique/grabbles.webp"
+		},
+		"Kmr8s4sEMn365d5M": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/gremlin/mitflit-prank-workshop.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/gremlin/mitflit-prank-workshop.webp"
+		},
+		"UBwmJpIyIV65U7R2": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/kressle.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/kressle.webp"
+		},
+		"bHnGsHHymPUC1XGc": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/auchs.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/auchs.webp"
+		},
+		"eVHkWtrdGJMVMob7": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/dovan-from-nisroch.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/dovan-from-nisroch.webp"
+		},
+		"YFnWOu9edWhj6vV6": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/akiros-ismort.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/akiros-ismort.webp"
+		},
+		"defXhBIK4TtoZXGK": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/the-stag-lord.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/the-stag-lord.webp"
+		},
+		"y5W2rrHzQmeSE6LU": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/happs-bydon.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/happs-bydon.webp"
+		},
+		"KP7uf1E8CQgzTuQy": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/nugrah.webp",
+			"token":{
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/nugrah.webp",
+				"scale":1.5
+			}
+		}
+	},
+	"pathfinder-bestiary": {
+		"4MwjCsa5O9aAjxSm": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/boar.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/boar.webp"
+		},
+		"Oilfs8Atv2LjAsUS": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/wolf.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/wolf.webp"
+		},
+		"CJP3GGBXuGgkaj6C": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/grizzly-bear.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/grizzly-bear.webp"
+		},
+		"E0LCMHVp4sxAbQYa": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/gremlin/mitflit.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/gremlin/mitflit.webp"
+		},
+		"E4ctF7Fvi3cdkgQq": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/hunting-spider.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/hunting-spider.webp"
+		},
+		"r9w1n85mp9Ip4QiS": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/kobold-warrior.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/kobold-warrior.webp"
+		},
+		"rPaHIh0ICnTLnRO6": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/kobold-scout.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/kobold-scout.webp"
+		},
+		"X03vq2RWi2jiA6Ri": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/owlbear.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/owlbear.webp"
+		},
+		"eHLDsL1LG3jQ1H6Y": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/amphibian/slurk.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/amphibian/slurk.webp"
+		},
+		"Sft7n3LMmnTxhhYn": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/warg.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/warg.webp"
+		},
+		"6XlGTt3RveX49YbC": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/shambler.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/shambler.webp"
+		},
+		"gvCCATlH9mPGWbsp": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/giant/troll.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/giant/troll.webp"
+		},
+		"VAWmwDA08ZLQd8lW": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/vampire-bat-swarm.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/vampire-bat-swarm.webp"
+		},
+		"BKPRkJgq7ehsW7uX": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/centipede-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/centipede-giant.webp"
+		},
+		"0plBflWwrCWQO2RO": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/undead/zombie/zombie-shambler.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/undead/zombie/zombie-shambler.webp"
+		},
+		"In2nNwo3JL1RXQhj": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/riding-horse.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/riding-horse.webp",
+				"scale":1.5
+			}
+		}
+	},
+	"pathfinder-bestiary-2": {
+		"EWoJAp5LJeL1Qfye": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/amphibian/frog-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/amphibian/frog-giant.webp"
+		},
+		"UnWr8QSMq2VZUQhX": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/tatzlwyrm.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/tatzlwyrm.webp"
+		},
+		"EOiOqs1vHCxZAj3T": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/construct/magical/scarecrow.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/construct/magical/scarecrow.webp"
+		},
+		"i8C4jqI3VdozylBL": {
+			"actor": "modules/qwert-kingmaker/assets/bestiary-portraits/planar/devil/cornugon.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/planar/devil/cornugon.webp",
+				"scale": 1.5
+			}
+		},
+		"le7VaOJyQQnl37Wa": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/tick-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/tick-giant.webp"
+		},
+		"UTnrcGoCIXR95zKi": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/whiptail-centipede-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/whiptail-centipede-giant.webp"
+		}
+	},
+	"pathfinder-bestiary-3": {},
+	"npc-gallery": {
+		"X1cSs1jhTtx1zTI4": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/poacher.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/poacher.webp"
+		},
+		"DFurZlcpcNrUmmER": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/ruffian.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/ruffian.webp"
+		}
+	},
+	"quest-for-the-frozen-flame-bestiary" : {
+		"IP3fGAEz3Nw1TzDD": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/elk.webp",
+			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/elk.webp"
+		}
+	}
+}
