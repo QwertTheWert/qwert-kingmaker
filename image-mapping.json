@@ -123,7 +123,15 @@
 				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/nugrah.webp",
 				"scale":1.5
 			}
+		},
+		"1ZKOTqqzeorIv7BB": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/tradoor-ogre-spider.webp",
+			"token":{
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/tradoor-ogre-spider.webp",
+				"scale":1.5
+			}
 		}
+		
 	},
 	"pathfinder-bestiary": {
 		"4MwjCsa5O9aAjxSm": {
@@ -192,6 +200,105 @@
 				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/riding-horse.webp",
 				"scale":1.5
 			}
+		},
+		"jGzVwekcRX5aQpbT": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/goblin-commando.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/goblin-commando.webp",
+				"scale":1.2
+			}
+		},
+		"z0l0lHc79NbMxiqZ": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/goblin-pyro.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/goblin-pyro.webp",
+				"scale":1.2
+			}
+		},
+		"wRQ7TZdd0n5UIIao": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/aberrant/will-o-wisp.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/aberrant/will-o-wisp.webp"
+		},
+		"wuaSG22lLjQ6yali": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/wyvern.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/dragon/wyvern.webp",
+				"scale":2
+			}
+		},
+		"qHqhUWeNUZRET9xV": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/dire-wolf.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/dire-wolf.webp"
+		},
+		"3kLXBdtKpUsU8ey5": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/satyr.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/satyr.webp"
+		},
+		"iSwUKe7cEytclS7r": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/nymph/dryad.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/nymph/dryad.webp"
+		},
+		"RiKjpztTt7tZbOeo": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/hydra.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/hydra.webp"
+		},
+		"wpmvdP5w936Kmq0e": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/fairy/pixie.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/fey/fairy/pixie.webp",
+				"scale": 1.2
+			}
+		},
+		"CzxQpB3p0d9hwPeR": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/weird/bulette.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/weird/bulette.webp"
+		}, 
+		"qpRJOzx3bJ7rolHp": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/manticore.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/manticore.webp",
+				"scale": 1.5
+			}
+		},
+		"O5YbsTSlX5VhciP4": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/flame-drake.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/flame-drake.webp"
+		},
+		"aqW5sp9HPgZgpXxs": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/giant/hill-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/giant/hill-giant.webp"
+		},
+		"Ey19J4nTn1dQvLtE": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/snapping-flytrap.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/snapping-flytrap.webp"
+		},
+		"l05LjJTXvFS4tYTE": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/nomen-centaur.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/nomen-centaur.webp",
+				"scale": 1.5
+			}
+		},
+		"Dwgl1DzJAYE3ienu": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/giant/cyclops.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/giant/cyclops.webp",
+				"scale": 2
+			}
+		},
+		"2HvXtedQziTTfI0S": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/avian/roc.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/avian/roc.webp",
+				"scale": 1.5
+			}
+		},
+		"ZMr28tFTA5NUcBTi": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/aberrant/web-lurker.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/aberrant/web-lurker.webp",
+				"scale": 1.5
+			}
 		}
 	},
 	"pathfinder-bestiary-2": {
@@ -221,7 +328,87 @@
 		"UTnrcGoCIXR95zKi": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/whiptail-centipede-giant.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/whiptail-centipede-giant.webp"
+		},
+		"H8KNSMb9uo2mJF3P": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/twigjack.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/twigjack.webp",
+				"scale": 2
+			}
+		},
+		"nzLGh9GKCk7imto3": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/blodeuwedd.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/blodeuwedd.webp",
+				"scale": 1.5
+			}
+		},
+		"Aa652cDdKTani3DY": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/scythe-tree.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/plant/scythe-tree.webp",
+				"scale":1.5
+			}
+		},
+		"yBglC9GBy6p1x87t": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/fungal/tendriculos.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/fungal/tendriculos.webp"
+		},
+		"T3low0wQNMO0SEtr": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/leucrotta.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/leucrotta.webp"
+		},
+		"VYEPG1G64OaCQmwf": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/elasmosaurus.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/elasmosaurus.webp",
+				"scale":3
+			}
+		},
+		"Hwy4YrNVVr7NnsMC": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/elemental/earth/mudwretch.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/elemental/earth/mudwretch.webp"
+		}, 
+		"RiKjpztTt7tZbOeo": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/hydra.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/hydra.webp"
+		},
+		"n6cv7eCzPSs4dbHn": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/dweomercat.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/dweomercat.webp"
+		},
+		"fwjDIGzmuEJN81Qq": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/trollhound.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/trollhound.webp"
+		},
+		"Kr5LtF0bqZJAC2Wn": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/ogre-spider.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/ogre-spider.webp",
+				"scale": 1.5
+			}
+		},
+		"zXZrUTQSI0WxAsF5": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/ooze/verdurous-ooze.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/ooze/verdurous-ooze.webp"
+		},
+		"zjPdqdQGNjO3Kto7": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/aurumvorax.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/aurumvorax.webp"
+		},
+		"qdlP3qTZtjzZXpmQ": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/spriggan-bully.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/spriggan-bully.webp"
+		},
+		"MDdbC8XDUPFg4FCv": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/spriggan-warlord.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/spriggan-warlord.webp"
+		},
+		"drtCZDDoESPSUqH7": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/peluda.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/peluda.webp"
 		}
+		
 	},
 	"pathfinder-bestiary-3": {},
 	"npc-gallery": {
@@ -232,12 +419,26 @@
 		"DFurZlcpcNrUmmER": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/ruffian.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/ruffian.webp"
+		},
+		"K2STan8izudm9eEn": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/antipaladin.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/antipaladin.webp",
+				"scale": 1.5
+			}
 		}
 	},
 	"quest-for-the-frozen-flame-bestiary" : {
 		"IP3fGAEz3Nw1TzDD": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/elk.webp",
 			"token":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/elk.webp"
+		},
+		"ZZkuo6mOh0SQWC3T": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/megaloceros.webp",
+			"token": {
+				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/megaloceros.webp",
+				"scale": 2
+			}
 		}
 	}
 }
