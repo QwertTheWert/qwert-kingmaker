@@ -299,7 +299,12 @@
 				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/aberrant/web-lurker.webp",
 				"scale": 1.5
 			}
+		},
+		"KxN9aGFGPxl6oLGF": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/undead/zombie/zombie-plague.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/undead/zombie/zombie-plague.webp"
 		}
+
 	},
 	"pathfinder-bestiary-2": {
 		"EWoJAp5LJeL1Qfye": {
