@@ -415,7 +415,12 @@
 		}
 		
 	},
-	"pathfinder-bestiary-3": {},
+	"pathfinder-bestiary-3": {
+		"1DzJjE7OnRDY5Pir": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/opossum-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/opossum-giant.webp"
+		}
+	},
 	"npc-gallery": {
 		"X1cSs1jhTtx1zTI4": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/poacher.webp",
