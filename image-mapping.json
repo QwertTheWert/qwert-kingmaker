@@ -130,8 +130,54 @@
 				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/tradoor-ogre-spider.webp",
 				"scale":1.5
 			}
-		}
+		}, 
+		"ZGVQcWl03kBIStS0": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/kundal.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/kundal.webp"
+		},
+		"Bq2eST0Ke4MnKXgR": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/grigori.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/grigori.webp"
+		},
+		"fiBhPqM2lomswplt": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/kereek.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/kereek.webp"
+		},
+		"yzlu5YX7Oxo7TVvK": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/prazil.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/prazil.webp"
+		},
+		"hGLp8mkvx8J8DDL8": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/malgorzata-niska.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/malgorzata-niska.webp"
+		},
+		"pD5Y7gJtqlr2A4a2": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/hargulka.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/hargulka.webp",
+				"scale": 1.5
+			}
+		},
+		"lutSSPcXOzDDqIGj": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/gurija.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/gurija.webp"
+		},
 		
+		"mNKAaSBWbZHQRdo9": {
+			"actor":"modules/qwert-kingmaker/assets/hazards/endless-struggle-owlbear.webp",
+			"token": "modules/qwert-kingmaker/assets/hazards/endless-struggle-owlbear.webp"
+		},
+		"8YJiyhWSWxMdGJV6": {
+			"actor": "modules/qwert-kingmaker/assets/hazards/the-power-of-faith.webp",
+			"token": "modules/qwert-kingmaker/assets/hazards/the-power-of-faith.webp"
+		},
+		"lZtkMlyix3kaTO0j": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/unique/the-beast.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/unique/the-beast.webp",
+				"scale": 1.5
+			}
+		}
 	},
 	"pathfinder-bestiary": {
 		"4MwjCsa5O9aAjxSm": {
@@ -303,6 +349,17 @@
 		"KxN9aGFGPxl6oLGF": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/undead/zombie/zombie-plague.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/undead/zombie/zombie-plague.webp"
+		},
+		"AuCC04X2AO8oFN75": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/harpy.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/harpy.webp",
+				"scale": 1.5
+			}
+		},
+		"ZPAM4OavHmdgmGnw" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/centipede-swarm.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/centipede-swarm.webp"
 		}
 
 	},
@@ -412,6 +469,18 @@
 		"drtCZDDoESPSUqH7": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/peluda.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/peluda.webp"
+		},
+		"lUYlClIPITmhzepe": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/giant/two-headed-troll.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/giant/two-headed-troll.webp"
+		},
+		"8WAc7n2M4Ks00yvj": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/giant/cavern-troll.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/giant/cavern-troll.webp"
+		},
+		"GsrqCDf0Dc9PisEt": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/fungal/violet-fungus.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/fungal/violet-fungus.webp"
 		}
 		
 	},
@@ -449,6 +518,12 @@
 				"img":"modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/megaloceros.webp",
 				"scale": 2
 			}
+		}
+	},
+	"hazards": {
+		"vTdWEBzJzltMM6r4": {
+			"actor":"modules/qwert-kingmaker/assets/hazards/shrieker.webp",
+			"token": "modules/qwert-kingmaker/assets/hazards/shrieker.webp"
 		}
 	}
 }
