@@ -177,6 +177,25 @@
 				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/unique/the-beast.webp",
 				"scale": 1.5
 			}
+		},
+		"wD6nctHffSaMdyag" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/lizardfolk/lizardfolk-warrior.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/lizardfolk/lizardfolk-warrior.webp",
+				"scale": 1.5
+			}
+		},
+		"mgh7E2Mh0ZRaniCc" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/king-vesket.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/king-vesket.webp"
+		},
+		"ZoUIXzygFDuHKebr": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/aberrant/will-o-wisp.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/aberrant/will-o-wisp.webp"
+		},
+		"AA3hdVlJhALthghl": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/flame-drake.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/flame-drake.webp"
 		}
 	},
 	"pathfinder-bestiary": {
@@ -360,6 +379,34 @@
 		"ZPAM4OavHmdgmGnw" : {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/arthropod/centipede-swarm.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/arthropod/centipede-swarm.webp"
+		},
+		"XrmHgbKgcHDi4OnK" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/undead/incorporeal/shadow.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/undead/incorporeal/shadow.webp"
+		},
+		"1CzZINpYRcNBKDnO" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/lizardfolk/lizardfolk-scout.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/lizardfolk/lizardfolk-scout.webp"
+		},
+		"EhB5Q98OO25DDOOl" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/lizardfolk/lizardfolk-defender.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/lizardfolk/lizardfolk-defender.webp"
+		},
+		"SuWpn5yZdsHDHpL2" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/monitor-lizard-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/monitor-lizard-giant.webp"
+		},
+		"vJwnApm0HkadGR7w" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/reptilian/crocodile.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/reptilian/crocodile.webp"
+		},
+		"dEAneTvoPuQXZoLR" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/aberrant/gibbering-mouther.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/aberrant/gibbering-mouther.webp"
+		},
+		"wKVZdVVcXtvLxgsY" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/construct/magical/animated-statue-giant.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/construct/magical/animated-statue-giant.webp"
 		}
 
 	},
@@ -481,6 +528,10 @@
 		"GsrqCDf0Dc9PisEt": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/fungal/violet-fungus.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/fungal/violet-fungus.webp"
+		},
+		"1QWZDaBoefL5rWkz": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/weird/hodag.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/weird/hodag.webp"
 		}
 		
 	},
