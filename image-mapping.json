@@ -196,6 +196,21 @@
 		"AA3hdVlJhALthghl": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/dragon/flame-drake.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/dragon/flame-drake.webp"
+		},
+		"jFA0q3g3MsFxS3xO" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/goblin-bat-dog.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/goblin-bat-dog.webp",
+				"scale": 1.5
+			}
+		},
+		"ZDt1rLh1VUFnHj5S": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/lickweed.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/lickweed.webp"
+		},
+		"Ypxj2FdUPQqpWPf3": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/ntavi.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/ntavi.webp"
 		}
 	},
 	"pathfinder-bestiary": {
@@ -407,8 +422,40 @@
 		"wKVZdVVcXtvLxgsY" : {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/construct/magical/animated-statue-giant.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/construct/magical/animated-statue-giant.webp"
+		},
+		"4BBzo72pHOpecoIp" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/goblin-war-chanter.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/goblin-war-chanter.webp"
+		},
+		"jVZRROs0GzDjVrgi" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/small/goblin-warrior.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/small/goblin-warrior.webp",
+				"scale": 1.2
+			}
+		},
+		"0rfropeocJWXC6pg" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/goblin-dog.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/goblin-dog.webp"
+		},
+		"7JvA7kTqCUwcJoNe" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/bugbear-tormentor.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/bugbear-tormentor.webp"
+		},
+		"BAD7npndaooB3Pz1" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/redcap.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/redcap.webp",
+				"scale": 1.6
+			}
+		},
+		"DlRe4c2XlBSpwmms" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/planar/barghest-greater.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/planar/barghest-greater.webp",
+				"scale": 2
+			}
 		}
-
 	},
 	"pathfinder-bestiary-2": {
 		"EWoJAp5LJeL1Qfye": {
