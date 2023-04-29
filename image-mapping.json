@@ -211,6 +211,20 @@
 		"Ypxj2FdUPQqpWPf3": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/humanoid/unique/ntavi.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/humanoid/unique/ntavi.webp"
+		},
+		"ugzdSsP9U0gGLZ3v" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/unique/rigg-gargadilly.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/unique/rigg-gargadilly.webp",
+				"scale": 1.2
+			}
+		},
+		"LdIVntI4ho9eKTVt" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/unique/the-dancing-lady.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/unique/the-dancing-lady.webp",
+				"scale": 1.5
+			}
 		}
 	},
 	"pathfinder-bestiary": {
@@ -455,6 +469,10 @@
 				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/planar/barghest-greater.webp",
 				"scale": 2
 			}
+		},
+		"sPClc6y3dT3XZupv": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/mammal/rat-swarm.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/mammal/rat-swarm.webp"
 		}
 	},
 	"pathfinder-bestiary-2": {
@@ -579,6 +597,21 @@
 		"1QWZDaBoefL5rWkz": {
 			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/bestial/weird/hodag.webp",
 			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/bestial/weird/hodag.webp"
+		},
+		"F5QibbbxUeO8A3Kj": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/grimstalker.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/grimstalker.webp"
+		},
+		"DWQzgPL1WjXfu4rV": {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/plant/assassin-vine.webp",
+			"token": "modules/qwert-kingmaker/assets/bestiary-tokens/plant/assassin-vine.webp"
+		},
+		"uQBfbNaIHdt0l2QB" : {
+			"actor":"modules/qwert-kingmaker/assets/bestiary-portraits/fey/quickling.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/bestiary-tokens/fey/quickling.webp",
+				"scale": 1.2
+			}
 		}
 		
 	},
