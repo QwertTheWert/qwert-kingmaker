@@ -201,7 +201,7 @@
 			"actor":"modules/qwert-kingmaker/assets/portraits/custom/goblin-bat-dog.webp",
 			"token": {
 				"img": "modules/qwert-kingmaker/assets/tokens/custom/goblin-bat-dog.webp",
-				"scale": 1.5
+				"scale": 2
 			}
 		},
 		"ZDt1rLh1VUFnHj5S": {
@@ -224,6 +224,47 @@
 			"token": {
 				"img": "modules/qwert-kingmaker/assets/tokens/custom/the-dancing-lady.webp",
 				"scale": 1.5
+			}
+		},
+		"vTzbfxtvhhmS7KWr" : {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/bloom-wyvern.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/custom/bloom-wyvern.webp",
+				"scale": 1.5
+			}
+		},
+		"hLvxvLere6DruDLJ": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/annadmede-belavarah.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/annadmede-belavarah.webp"
+		},
+		"WJ0bMCZUHJVwKYG1": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/freshly-bloomed-basilisk.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/freshly-bloomed-basilisk.webp"
+		},
+		"Dxn6t9aoWUwPn6CE": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/virthad.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/virthad.webp"
+		},
+		"BWI2CbtRo2lUcraX": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/bloom-cultist.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/bloom-cultist.webp"
+		},
+		"pcct13qdrriJf3OL" : {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/akuzhail.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/custom/akuzhail.webp",
+				"scale": 1.5
+			}
+		},
+		"mbAhAq5OyZAv6lq5": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/darivan.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/darivan.webp"
+		},
+		"vBugpZnpxQcrrWoo" : {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/bloom-of-lamashtu.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/custom/bloom-of-lamashtu.webp",
+				"scale": 2
 			}
 		}
 	},
@@ -6530,13 +6571,17 @@
 				"img":"modules/qwert-kingmaker/assets/tokens/custom/antipaladin.webp",
 				"scale": 1.5
 			}
+		},
+		"GoGNtiHuYycppLPk": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/bounty-hunter.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/bounty-hunter.webp"
+		},
+		"zQfufnnLCTzQ165S": {
+			"actor":"modules/qwert-kingmaker/assets/portraits/custom/monster-hunter.webp",
+			"token": "modules/qwert-kingmaker/assets/tokens/custom/monster-hunter.webp"
 		}
 	},
 	"quest-for-the-frozen-flame-bestiary" : {
-		"IP3fGAEz3Nw1TzDD": {
-			"actor":"modules/qwert-kingmaker/assets/portraits/custom/elk.webp",
-			"token":"modules/qwert-kingmaker/assets/tokens/custom/elk.webp"
-		},
 		"ZZkuo6mOh0SQWC3T": {
 			"actor":"modules/qwert-kingmaker/assets/portraits/custom/megaloceros.webp",
 			"token": {
